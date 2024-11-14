@@ -16,10 +16,7 @@ if ($_POST){
     }
     echo " <div> $b </div> " ;
 }
-    
-#trazer a variável para o php
-#depois eu transformo em um vetor
-#usar p foreach para somar 
+
 
 
 ?>
